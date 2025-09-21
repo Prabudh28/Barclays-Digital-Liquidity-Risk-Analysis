@@ -17,15 +17,15 @@ This assignment was produced as an integral assignment of the **Banking Technolo
 
 ## ☕ Main Analysis
 ### 1. Liquidity Risk Modeling
-* **Lagged Reserve Accounting (LRA):
+ Lagged Reserve Accounting (LRA):
 - 2023: Average Daily £53.9 bn | Base Reserve £8.09 bn | Final Reserve £7.09 bn
 - 2024: Average Daily £56.1 billion | Base Reserve £8.42 billion | Final Reserve £6.42 billion.
 
-* **Liquidity Coverage Ratio (LCR
+Liquidity Coverage Ratio (LCR
 - Base-case LCR grew from **102% (2023)** to **111% (2024)** in our projections.
 - Barclays' own Reported ratios were higher (161% → 172%) as a result of regulatory HQLA provisions and off-balance-sheet treatments.
 
-* **Scenario Stress-Test
+Scenario Stress-Test
 - +15% cash outflow shock lowers LCR to ~96.8% (below Basel III floor), demonstrating possible weakness in extreme distress conditions.
 
 ### 2. Risk Mitigation & Digital Strategy
@@ -38,11 +38,10 @@ Upgrade risk systems to Basel III end-game standards compliance.
 Utilize blockchain and AI for real-time analytics of liquidity and automated regulatory reporting.
 * Improve contingency funding and stress-testing frameworks.
 
-## ????️ Tools & Skills
+##  Tools & Skills
 * **Data**: Barclays Annual Reports 2023 & 2024, LCR/LRA excel models, internal.
 * **Tech**: Excel, Python/R (optional), Basel III compliance standards, stress-testing practices.
 
-## Documentation
 
 
 * ## ✍️ Method of Reproduction 1. Fork this repository. 2. Open `data/LCR_2023_2024.xlsx` and `data/LRA_Template.xlsx` to inspect base calculations. 3. (Optional)
