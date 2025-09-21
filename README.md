@@ -42,7 +42,4 @@ Utilize blockchain and AI for real-time analytics of liquidity and automated reg
 * **Data**: Barclays Annual Reports 2023 & 2024, LCR/LRA excel models, internal.
 * **Tech**: Excel, Python/R (optional), Basel III compliance standards, stress-testing practices.
 
-
-
-* ## ✍️ Method of Reproduction 1. Fork this repository. 2. Open `data/LCR_2023_2024.xlsx` and `data/LRA_Template.xlsx` to inspect base calculations. 3. (Optional)
   
